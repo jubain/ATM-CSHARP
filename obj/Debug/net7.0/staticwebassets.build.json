@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "U58fLEg3ywEJ9epqAchm6OAvBIB6gapVKgNdO1l9HYs=",
+  "Source": "Hope.BackendServices.API",
+  "BasePath": "_content/Hope.BackendServices.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

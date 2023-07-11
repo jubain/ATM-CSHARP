@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Hope.BackendServices.API.props" />
+</Project>
